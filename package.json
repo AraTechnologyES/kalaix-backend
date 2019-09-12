@@ -1,0 +1,26 @@
+{
+  "name": "kalaix-backend",
+  "version": "1.0.0",
+  "description": "Kalaix Password and Secrets manager backend",
+  "main": "kalaix.js",
+  "scripts": {
+    "test": "NODE_ENV=test node kalaix.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KALAIX/kalaix-backend.git"
+  },
+  "keywords": [
+    "kalaix",
+    "backend"
+  ],
+  "author": "Jose Vicente Giner Sanchez <jvginer@gentooxativa.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/KALAIX/kalaix-backend/issues"
+  },
+  "homepage": "https://github.com/KALAIX/kalaix-backend#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
